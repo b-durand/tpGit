@@ -1,0 +1,7 @@
+git init  créer .git
+
+touch toto.txt  créer fichier toto.txt dans le répertoire
+
+git status : permet de voir les fichiers non commit ou les nouveaus fichiers etc
+
+touch .gitignore : on y mets les fichiers à ne pas commit
